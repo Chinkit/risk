@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gcc hello.c -o my_app
+gcc hello.c -o test_app
