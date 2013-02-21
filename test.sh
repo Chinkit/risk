@@ -1,4 +1,3 @@
 #!/bin/bash
 
-
-gcc hello.c -o app
+gcc hello.c -o my_app
