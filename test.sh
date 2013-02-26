@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gcc hello.c -o a_app
+gcc hello.c -o aa_app
