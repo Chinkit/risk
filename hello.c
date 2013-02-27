@@ -7,4 +7,5 @@ void main()
 	printf("now test for automation........\n");
 	printf("auto build testing........\n");
 	printf("may i get success........\n");
+	printf("rout is done........\n");
 }
